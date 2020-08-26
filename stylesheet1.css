@@ -1,0 +1,48 @@
+body {
+  font-family: "Avenir Next";
+}
+
+li {
+  list-style: none;
+}
+
+.header1 {
+  background-color: lightgray;
+  color: rgb(39, 47, 167);
+  
+  letter-spacing: 1.6px;
+  word-spacing: 2px;
+  font-family: Georgia, serif;
+  font-size:24px;
+}
+.header2 h2{
+  font-family: Georgia, serif;
+  letter-spacing: 2.8px;
+  
+  color: darkred;
+  font-size:18px;
+}
+.header3 h2{
+  font-family: Georgia, serif;
+  letter-spacing: 2.8px;
+  
+  color: darkred;
+  font-size:18px;
+}
+.header3 span{
+  padding:60px 80px;
+}
+.header4 h2{
+  font-family: Georgia, serif;
+  letter-spacing: 2.8px;
+  
+  color: darkred;
+  font-size:18px;
+}
+.header4 span{
+  padding:60px 80px;
+}
+
+
+
+
